@@ -1,0 +1,54 @@
+
+        body{
+            color: rgb(12, 115, 224);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .title{
+            font-size: 3rem;
+            font-weight: bolder;
+            display: flex;
+            justify-content: center;
+        }
+        button{
+            color: rgb(12, 115, 224);
+        }
+        .input{
+            margin-top: 3rem;
+            display: flex;
+            justify-items: center;
+        }
+        #input{
+            margin-left: 1rem;
+            margin-right: 1rem;
+        }
+        #need{
+            margin-right: 1rem;
+        }
+        .need{
+            font-size: 2rem;
+        }
+        .have{
+            font-size: 2rem;
+        }
+        .itemDIV{
+            border: 0.5px solid black;
+            display: flex;
+            justify-items: center;
+            align-items:center;
+        }
+        .remove{
+            color: red;
+            margin-left: 20rem;
+           position: fixed;
+        }
+        .needItems{
+            margin-left: 1rem;
+            margin-right: 0.5rem;
+        }
+        .haveItems{
+            margin-left: 1rem;
+            margin-right: 0.5rem;
+        }
+    
